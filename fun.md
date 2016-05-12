@@ -15,10 +15,20 @@ Check arXiv.org today!
 
 #### Physics
 
+**2016**
+
+* [Pi in the sky](https://arxiv.org/abs/1603.09703)
+
+
+**2015**
+
+* [A Farewell to Falsifiability](https://arxiv.org/abs/1504.00108)
+
 **2014**
 
 * [A Necro-Biological Explanation for the Fermi Paradox](http://arxiv.org/abs/1403.8146): watch the affiliations.
 * [The April First Phenomenon](http://arxiv.org/abs/1403.8010)
+* [The CMB flexes its BICEPs while walking the Planck](https://arxiv.org/abs/1403.8145)
 
 
 **2012**
@@ -49,6 +59,11 @@ Check arXiv.org today!
 **2007**
 
 * [The Stryngbohtyk Model of the Universe: a Solution to the Problem of the Cosmological Constant](http://arxiv.org/abs/astro-ph/0703774)
+* [Natural Dark Energy](http://arxiv.org/abs/astro-ph/0703783)
+
+**2006**
+
+* [Cosmic Conspiracies](http://arxiv.org/abs/astro-ph/0604011)
 
 
 
