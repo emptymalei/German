@@ -1,5 +1,10 @@
 # Awesome Papers
 
+## Fun(ny) Papers
+
+[Fun(ny) Papers](fun.md)
+
+
 
 
 ## Exoplanets, Astrobiology, Civilization, Planetary Engineering
